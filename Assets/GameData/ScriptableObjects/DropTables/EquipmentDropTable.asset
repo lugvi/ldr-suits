@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82a5f4ad29decfb41afb8f5c2478a02a, type: 3}
+  m_Name: EquipmentDropTable
+  m_EditorClassIdentifier: 
+  items:
+  - dropChance: 1
+    item: {fileID: 11400000, guid: 337be989d33580b44810658ad4c94e74, type: 2}
+  - dropChance: 1
+    item: {fileID: 11400000, guid: 25d1045aa7850ac4bb2051f357109b7c, type: 2}
+  - dropChance: 1
+    item: {fileID: 11400000, guid: 9ac2bfa3c54358844a2865b38e1412ef, type: 2}
+  - dropChance: 5
+    item: {fileID: 11400000, guid: e69181a05bc106d44be52a98f16d39f6, type: 2}
+  dropChanceSum: 8

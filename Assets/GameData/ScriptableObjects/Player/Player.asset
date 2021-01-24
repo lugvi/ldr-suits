@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9508a76ef1347e4498e19301b3416945, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  healthPoints: 0
+  energyPoints: 0
+  fatigue: 0
+  attributes:
+    Strength: 0
+    Perception: 0
+    Endurance: 0
+    Agility: 0
+    Metabolism: 0
+  inventory:
+  - {fileID: 11400000, guid: e69181a05bc106d44be52a98f16d39f6, type: 2}
+  - {fileID: 11400000, guid: 9ac2bfa3c54358844a2865b38e1412ef, type: 2}
+  - {fileID: 11400000, guid: 25d1045aa7850ac4bb2051f357109b7c, type: 2}
+  - {fileID: 11400000, guid: e69181a05bc106d44be52a98f16d39f6, type: 2}
+  - {fileID: 11400000, guid: 25d1045aa7850ac4bb2051f357109b7c, type: 2}
+  - {fileID: 11400000, guid: e69181a05bc106d44be52a98f16d39f6, type: 2}
+  - {fileID: 11400000, guid: e69181a05bc106d44be52a98f16d39f6, type: 2}
+  - {fileID: 11400000, guid: e69181a05bc106d44be52a98f16d39f6, type: 2}
+  - {fileID: 11400000, guid: e69181a05bc106d44be52a98f16d39f6, type: 2}
+  - {fileID: 11400000, guid: e69181a05bc106d44be52a98f16d39f6, type: 2}
+  - {fileID: 11400000, guid: 337be989d33580b44810658ad4c94e74, type: 2}
+  - {fileID: 11400000, guid: e69181a05bc106d44be52a98f16d39f6, type: 2}
+  - {fileID: 11400000, guid: 25d1045aa7850ac4bb2051f357109b7c, type: 2}
+  - {fileID: 11400000, guid: 25d1045aa7850ac4bb2051f357109b7c, type: 2}
+  - {fileID: 11400000, guid: 25d1045aa7850ac4bb2051f357109b7c, type: 2}
+  - {fileID: 11400000, guid: e69181a05bc106d44be52a98f16d39f6, type: 2}
+  equpment:
+  - {fileID: 11400000, guid: 337be989d33580b44810658ad4c94e74, type: 2}
+  - {fileID: 11400000, guid: 9ac2bfa3c54358844a2865b38e1412ef, type: 2}
+  - {fileID: 11400000, guid: 25d1045aa7850ac4bb2051f357109b7c, type: 2}
+  - {fileID: 11400000, guid: e69181a05bc106d44be52a98f16d39f6, type: 2}
